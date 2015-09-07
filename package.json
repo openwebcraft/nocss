@@ -1,0 +1,23 @@
+{
+  "name": "nocss",
+  "version": "1.0.0",
+  "description": "Piece of mind for web application developers.",
+  "main": "index.js",
+  "scripts": {
+    "test": "standard"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/openwebcraft/nocss.git"
+  },
+  "keywords": [
+    "css",
+    "nocss"
+  ],
+  "author": "Matthias Geisler <matthias@openwebcraft.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/openwebcraft/nocss/issues"
+  },
+  "homepage": "https://github.com/openwebcraft/nocss#readme"
+}
