@@ -16,7 +16,7 @@ export default React.createClass({
       <NavHelper>
         <header>
           <h1><a href='/'>NoCSS</a></h1>
-          <p>Peace of mind for web application developers.</p>
+          <p>less is more</p>
           <nav>
             <p><a href='/'>Welcome</a></p>
             <p><a href='/about'>About</a></p>
